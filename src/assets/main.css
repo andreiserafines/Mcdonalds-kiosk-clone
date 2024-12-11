@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* colors */
+body {
+    overflow: hidden;
+    background-color: #fff;
+}
+.primary {
+    background-color: #db1020;
+}
+.secondary {
+    background-color: #ffd700;
+}
